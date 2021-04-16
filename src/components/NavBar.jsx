@@ -13,7 +13,7 @@ const NavBar = () => {
     return (
         <Nav>
             <div><a href="https://www.columbiaspectator.com/">
-                <img src={logo} alt="spec logo" width="305px" height="67px" style={{paddingTop: '14px', paddingLeft: '11px'}} />
+                <img src={logo} alt="spec logo" width="274.5px" height="60.3px" style={{paddingTop: '14px', paddingLeft: '11px',paddingBottom:'14px'}} />
               </a></div>
             <h1>Spec's Sources</h1>
         </Nav>
